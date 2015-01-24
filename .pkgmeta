@@ -1,0 +1,8 @@
+package-as: SVUI_!Core
+
+move-folders:
+    SVUI_!Core/_options: SVUI_!Options
+
+manual-changelog: CHANGELOG.txt
+
+license-output: LICENSE.txt
