@@ -1,6 +1,6 @@
 ## Interface: 60000
-## Author: S.Jackson
-## Version: 1.0.0
+## Author: Munglunch
+## Version: 1.0.01
 ## Title: |cffFF9900SVUI |r|cffFFEF00Options|r
 ## Notes: SVUI [|cff9911FFConfig Options|r]
 ## RequiredDeps: SVUI_!Core
