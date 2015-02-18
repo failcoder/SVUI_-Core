@@ -1,0 +1,7 @@
+move-folders:
+    core: SVUI_!Core
+    options: SVUI_!Options
+
+manual-changelog: CHANGELOG.txt
+
+license-output: LICENSE.txt
