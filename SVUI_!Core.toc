@@ -1,6 +1,6 @@
 ## Interface: 60000
 ## Author: Munglunch
-## Version: 1.0.01
+## Version: 1.0.02
 ## Title: |cffFF9900SVUI|r
 ## Notes: SVUI [|cff9911FFCore Framework|r].
 ## SavedVariables: SVUI_Global, SVUI_Errors, SVUI_Filters, SVUI_Media
