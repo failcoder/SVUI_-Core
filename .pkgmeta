@@ -1,6 +1,7 @@
+package-as: SVUI_!Core
+
 move-folders:
-    core: SVUI_!Core
-    options: SVUI_!Options
+    _options: SVUI_!Options
 
 manual-changelog: CHANGELOG.txt
 
